@@ -28,6 +28,8 @@ body {
 }
 
 .loading-text{
+    position: center;
     font-size: 50px;
     color: #fff;
+    margin-bottom: 50%;
 }
